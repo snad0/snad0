@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snad0
+- 👋 Hi, I’m Nadeem
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning advanced python
 - 💞️ I’m looking to collaborate on projects based on AI
