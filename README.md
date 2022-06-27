@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nadeem
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning advanced python
-- 💞️ I’m looking to collaborate on projects based on Machine learning
+- 💞️ I’m looking to collaborate on projects based on Machine learning and Artificial intelligence 
 - 📫 How to reach me?, mail me anytime
 
 <!---
