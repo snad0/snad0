@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadeem
 - 👀 I’m interested in python development
-- 🌱 I’m currently working Data science
+- 🌱 I’m currently working as Data Analyst
 - 💞️ I’m looking to collaborate on projects based on Machine learning and Artificial intelligence 
 - 📫 How to reach me?, mail me anytime
 
